@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # [![Greeting](https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&width=1000&height=70&duration=4000&vCenter=true&lines=🙋+Welcome+to+my+Github+profile!+;I'm+a+Web+Developer+🙴+Frontend+Engineer+👨‍💻+)](https://git.io/typing-svg)
 
-# **Hi There! 👋 I'm Zulkariski** 
+# **Hi There! 👋 I'm John Ardi** 
 I'm a **Web Developer & Frontend Engineer** with 2+ years of experience. I'm up for remote work at any time or from anywhere.
 
 ## 🛠️ Skills
